@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Raphael Avoustin
 description: You will find on this page my projects
+
+[Link to a document]({{ site.baseurl }}{% link RL_2048.md %})
