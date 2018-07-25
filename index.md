@@ -1,5 +1,4 @@
 # Raphael Avoustin
 
-{{ site.baseurl }}{% link index.md %}
-{{ site.baseurl }}{% link RL_2048.md %}
-[Link to a document]({{ site.baseurl }}{% link RL_2048.md %})
+[Home]({{ site.baseurl }}{% link index.md %})
+[Reinforcement Learning - 2048]({{ site.baseurl }}{% link RL_2048.md %})
