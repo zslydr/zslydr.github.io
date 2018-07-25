@@ -2,3 +2,4 @@
 
 {{ site.baseurl }}{% link index.md %}
 {{ site.baseurl }}{% link RL_2048.md %}
+[Link to a document]({{ site.baseurl }}{% link RL_2048.md %})
