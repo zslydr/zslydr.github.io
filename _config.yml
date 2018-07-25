@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Raphael Avoustin
 description: You will find on this page my projects
+
+{{ site.baseurl }}{% https://github.com/zslydr/zslydr.github.io/blob/master/index.md %}
+{{ site.baseurl }}{% https://github.com/zslydr/zslydr.github.io/blob/master/RL_2048.md %}
