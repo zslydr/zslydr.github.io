@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Raphael Avoustin
-description: You will find on this web page my projects
-[Home]({{ site.baseurl }}{% link index.md %})
-
-[Reinforcement Learning - 2048]({{ site.baseurl }}{% link RL_2048.md %})
+description: >-
+  Hello, my name is Raphael, and I am a Machine Learning Enthusiast.
+  You will find on this web page the projects I've been working on.
