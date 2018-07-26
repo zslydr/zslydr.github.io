@@ -1,4 +1,4 @@
-# Raphael Avoustin
+# Home
 
 [Home]({{ site.baseurl }}{% link index.md %})
 

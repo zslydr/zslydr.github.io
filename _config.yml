@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: Raphael Avoustin
+email: raphael.avoustin@gmail.com
 description: >-
   Hello, my name is Raphael, and I am a Machine Learning Enthusiast.
   You will find on this web page the projects I've been working on.
+  [Home]({{ site.baseurl }}{% link index.md %})
+
