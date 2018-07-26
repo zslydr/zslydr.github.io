@@ -4,3 +4,7 @@ email: raphael.avoustin@gmail.com
 description: >-
   Hello, my name is Raphael, and you will find on this web page the projects I've been working on.
 
+header_pages:
+  - index.md
+  - RL_2048.md
+
