@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Raphael Avoustin
 description: You will find on this page my projects
+show_dir_listing: true
