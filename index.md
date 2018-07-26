@@ -4,11 +4,11 @@
 
 * * *
 
-# Home
+# Presentation
 
-## Presentation
+Recently addicted to everything close enough to machine learning, I've decided to challenge myself through various projects, and try to explore every bit of ML algorithms I can find. I am mostly interested in direct applications with ML, such as AI and Data Science, but I also love digging into the actual mathematics and optimisation problems, and try to understand in depth the concepts behind it.
 
-## Formation
+# Formations
 
-## Experiences
+# Experiences
 
